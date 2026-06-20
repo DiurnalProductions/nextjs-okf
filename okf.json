@@ -1,0 +1,8 @@
+{
+  "id": "nextjs-okf",
+  "name": "Next.js Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for Next.js (App Router, SSR, server components)",
+  "entry": "index.md",
+  "tags": ["nextjs", "react", "fullstack", "ssr", "frontend", "node"]
+}
